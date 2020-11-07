@@ -1,0 +1,6 @@
+framework module Pods_Culture {
+  umbrella header "Pods-Culture-umbrella.h"
+
+  export *
+  module * { export * }
+}
